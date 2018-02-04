@@ -1,0 +1,35 @@
+Enter the first 2D point as "x-cood y-coord":
+1 2
+Enter the second 2D point as "x-cood y-coord":
+1 -1
+Enter the third 2D point as "x-cood y-coord":
+2 2
+The inputed 3 points form a real triangle.
+Enter the first 2D point as "x-cood y-coord":
+-3 -2
+Enter the second 2D point as "x-cood y-coord":
+1 1
+Enter the third 2D point as "x-cood y-coord":
+0.5 0.7
+The inputed 3 points form a real triangle.
+Enter the first 2D point as "x-cood y-coord":
+1 2
+Enter the second 2D point as "x-cood y-coord":
+1 3
+Enter the third 2D point as "x-cood y-coord":
+ 1 4
+You can not form a real triangle from the inputed 3 points.
+Enter the first 2D point as "x-cood y-coord":
+0 0 
+Enter the second 2D point as "x-cood y-coord":
+0 0
+Enter the third 2D point as "x-cood y-coord":
+0 0
+You can not form a real triangle from the inputed 3 points.
+Enter the first 2D point as "x-cood y-coord":
+2 4
+Enter the second 2D point as "x-cood y-coord":
+3 5
+Enter the third 2D point as "x-cood y-coord":
+4 6
+You can not form a real triangle from the inputed 3 points.
