@@ -1,0 +1,36 @@
+Enter the center of the first circle as "x-coord y-coord":
+0 0
+Enter the radius of the first circle:
+1
+Enter the center of the second circle as "x-coord y-coord":
+1 1
+Enter the radius of the second circle:
+1
+The two circles overlap.
+Enter the center of the first circle as "x-coord y-coord":
+0 0
+Enter the radius of the first circle:
+1
+Enter the center of the second circle as "x-coord y-coord":
+0 0
+Enter the radius of the second circle:
+4
+One of the circles contains another.
+Enter the center of the first circle as "x-coord y-coord":
+0 0
+Enter the radius of the first circle:
+1
+Enter the center of the second circle as "x-coord y-coord":
+0 2
+Enter the radius of the second circle:
+1
+The two circles are touching.
+Enter the center of the first circle as "x-coord y-coord":
+0 0  
+Enter the radius of the first circle:
+1
+Enter the center of the second circle as "x-coord y-coord":
+2 2
+Enter the radius of the second circle:
+1
+The two circles are separate.
