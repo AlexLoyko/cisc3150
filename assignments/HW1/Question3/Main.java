@@ -1,7 +1,5 @@
 import java.util.Random;
 
-import javafx.beans.property.ReadOnlyDoubleWrapper;
-
 public class Main {
     public static void main(String [] args) {
         String [] months = {
