@@ -1,0 +1,19 @@
+
+Enter the radius of circle to calculate the area. 
+To exit, use your operating system's EOF command shortcut.
+The area of a circle with radius of 5.0 is 78.54
+
+Enter the radius of circle to calculate the area. 
+To exit, use your operating system's EOF command shortcut.
+Invalid input of "-15.0". Radius should be greater than 0 !
+
+Enter the radius of circle to calculate the area. 
+To exit, use your operating system's EOF command shortcut.
+Invalid input of "h". Your input should be a positive number!
+
+Enter the radius of circle to calculate the area. 
+To exit, use your operating system's EOF command shortcut.
+Invalid input of "-12.2". Radius should be greater than 0 !
+
+Enter the radius of circle to calculate the area. 
+To exit, use your operating system's EOF command shortcut.
