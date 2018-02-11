@@ -31,7 +31,7 @@ public class Main {
 
             System.out.print(String.join("", Collections.nCopies((lineWidth - currLineWidth)/2, " ")));
 
-            for (int t = 1, j = 1; j <= 2 * i - 1; t += j++ <= i ? 1 : -1) {
+            for (int t = 1, j = 1; j <= 2 * i - 1; t += j++ < i ? 1 : -1) {
                 System.out.printf("%" + maxNumberWidth + "s", t);
                 System.out.print(" ");
             }
