@@ -1,0 +1,15 @@
+Alexs-MacBook-Pro-3:Question5 alexloyko$ java Main
+Enter a bunch of comma-separated tokens and each of them will get printed on a different line
+alex,went,home,and,fell,asleep,
+
+alex
+
+went
+
+home
+
+and
+
+fell
+
+asleep

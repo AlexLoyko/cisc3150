@@ -88,5 +88,7 @@ public class Main {
             month.display(year);
             intendedDay = (intendedDay + (isLeap && i == 1 ? daysInMonth[i] + 1 : daysInMonth[i])) % 7;
         }
+
+        input.close();
     }
 }

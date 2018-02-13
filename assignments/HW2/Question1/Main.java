@@ -38,5 +38,7 @@ public class Main {
 
             System.out.print("\n");
         }
+
+        input.close();
     }
 }
