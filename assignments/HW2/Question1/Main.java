@@ -30,7 +30,7 @@ public class Main {
             // from https://stackoverflow.com/questions/1235179/simple-way-to-repeat-a-string-in-java
 
             System.out.print(String.join("", Collections.nCopies((lineWidth - currLineWidth)/2, " ")));
-
+            
             for (int t = 1, j = 1; j <= 2 * i - 1; t += j++ < i ? 1 : -1) {
                 System.out.printf("%" + maxNumberWidth + "s", t);
                 System.out.print(" ");
