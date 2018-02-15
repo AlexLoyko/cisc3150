@@ -1,21 +1,16 @@
-Alexs-MacBook-Pro-3:Question3 alexloyko$ java Main 
+Alexs-MacBook-Pro-3:Question3 alexloyko$ java Main
 Enter a string to check if it is a palindrome
 madamimadam
 The word "madamimadam" is a palindrome.
-Alexs-MacBook-Pro-3:Question3 alexloyko$ java Main 
-Enter a string to check if it is a palindrome
-racecar
-The word "racecar" is a palindrome.
-Alexs-MacBook-Pro-3:Question3 alexloyko$ java Main 
-Enter a string to check if it is a palindrome
-racecars
-The word "racecars" is not a palindrome.
-Alexs-MacBook-Pro-3:Question3 alexloyko$ java Main 
-Enter a string to check if it is a palindrome
-racecar999
-Palindromes are not supposed to have digits. "racecar999" is not a palindrome!
-Alexs-MacBook-Pro-3:Question3 alexloyko$ 
+Alexs-MacBook-Pro-3:Question3 alexloyko$ java Main
 Enter a string to check if it is a palindrome
 Racecar
 The word "racecar" is a palindrome.
-Alexs-MacBook-Pro-3:Question3 alexloyko$ 
+Alexs-MacBook-Pro-3:Question3 alexloyko$ java Main
+Enter a string to check if it is a palindrome
+racecar
+The word "racecar" is a palindrome.
+Alexs-MacBook-Pro-3:Question3 alexloyko$ java Main
+Enter a string to check if it is a palindrome
+Racecars
+The word "racecars" is not a palindrome.

@@ -11,13 +11,6 @@ public class Main {
             word = input.next().toLowerCase();
         }
 
-        for (int i = 0; i < word.length(); i++) {
-            if (Character.isDigit(word.charAt(i))) {
-                System.out.println("Palindromes are not supposed to have digits. \"" + word + "\" is not a palindrome!");
-                return;
-            }
-        }
-
         if (isPalindrome(word)) 
             System.out.println("The word \"" + word +"\" is a palindrome.");
         else 
