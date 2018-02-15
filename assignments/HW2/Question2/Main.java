@@ -62,7 +62,7 @@ public class Main {
             return;
         }
 
-        isLeap = year % 4 == 0 ? true : false;
+        isLeap = (year % 4 == 0) && !((year % 100 == 0) && (year % 400 != 0));
 
         System.out.println("Enter one of the following to specify the day of the week on which January 1st fell in the year you want to see a calendar for.");
        
