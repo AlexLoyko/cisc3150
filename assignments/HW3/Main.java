@@ -24,7 +24,7 @@ class Main {
     System.out.println(myStr.compareTo(new MyString("Alex".toCharArray())));
     System.out.println(myStr.compareTo(new MyString("Olexandr".toCharArray())));
     System.out.println(myStr.getMyString().toString());
-    System.out.println(MyString.valueOf(2406).toString());
+    System.out.println(MyString.valueOf(26).toString());
 
   }
 }

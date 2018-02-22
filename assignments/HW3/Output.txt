@@ -1,0 +1,11 @@
+Alexs-MacBook-Pro-3:HW3 alexloyko$ java Main
+s
+19
+Oleksand
+oleksandr the great
+OLEKSANDR THE GREAT
+10
+1
+-1
+Oleksandr the Great
+26

@@ -89,7 +89,7 @@ class MyString {
     char [] str = new char[digitsReversed.size()];
 
     for (int j = digitsReversed.size() - 1; j >= 0; j--)
-      str[digitsReversed.size() - 1 - j] = (char)((int)digitsReversed.get(j) + (int)('0'));
+      str[digitsReversed.size() - 1 - j] = (char)(digitsReversed.get(j) + 48);
 
     return new MyString(str);
   }
