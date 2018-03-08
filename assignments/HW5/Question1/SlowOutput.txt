@@ -1,2 +1,2 @@
-Calculated PI: 3.141635476
-Execution time: 339497ms
+Calculated PI: 3.141560978
+Execution time: 220710ms
