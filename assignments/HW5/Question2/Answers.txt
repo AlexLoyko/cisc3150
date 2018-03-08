@@ -1,0 +1,72 @@
+1.
+  Actual method called:
+    public String call(int k)
+    {
+      String s = "Woof";
+      for(int i = 1; i < k; ++i)
+        s += ", woof";
+      return s + "!";
+    }
+  Would print: "Woof, woof, woof!"
+  Concepts: function overloading
+
+
+2.
+  Actual method called:
+    public String toString() {
+      return "I'm a cat, go away!";
+    }
+
+  Concepts: overriding
+
+3.
+  Actual method called: tries to find method "call()" among Object's hierarchy
+  Concepts: it-was-an-error
+
+4.
+  Actual method called: Object's "toString()"
+  Concepts: inheritance
+
+5.
+  Actual method called:
+    public String call()
+    {
+      return "woof!";
+    }
+  Concepts: overriding
+
+6.
+  Actual method called:
+    public String toString(String b)
+    {
+      return b + "? ... " +
+      "Don't waste my time.";
+    }
+  Concepts: function overloading
+
+7.
+  Code:
+    Cat u = new Cat();
+    System.out.println(u.call(3));
+
+  Actual method called:
+    it-was-an-error
+
+8.
+  Code:
+    Dog e = new Dog();
+    System.out.println(e.feet());
+
+  Actual method called:
+    public String feet()
+    {
+      return "four";
+    }
+  Concepts: inheritance
+
+9.
+  Code:
+    Pet r = new Dog();
+    System.out.println(r.call(3));
+
+    Concepts: it-was-an-error
