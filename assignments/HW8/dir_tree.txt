@@ -1,0 +1,98 @@
+..
+├── HW1
+│   ├── Question1
+│   │   └── Statement.txt
+│   ├── Question2
+│   │   ├── Main.class
+│   │   ├── Main.java
+│   │   └── Output.txt
+│   ├── Question3
+│   │   ├── Main.class
+│   │   ├── Main.java
+│   │   └── Output.txt
+│   ├── Question4
+│   │   ├── Input.txt
+│   │   ├── Main.class
+│   │   ├── Main.java
+│   │   └── Output.txt
+│   ├── Question5
+│   │   ├── Main.class
+│   │   ├── Main.java
+│   │   ├── Output.txt
+│   │   ├── Point.class
+│   │   └── Point.java
+│   ├── Question6
+│   │   ├── Main.class
+│   │   ├── Main.java
+│   │   ├── Output.txt
+│   │   ├── Point.class
+│   │   └── Point.java
+│   └── .DS_Store
+├── HW2
+│   ├── Question1
+│   │   ├── Main.class
+│   │   ├── Main.java
+│   │   └── Output.txt
+│   ├── Question2
+│   │   ├── Main.class
+│   │   ├── Main.java
+│   │   ├── Month.class
+│   │   ├── Month.java
+│   │   └── Output.txt
+│   ├── Question3
+│   │   ├── Main.class
+│   │   ├── Main.java
+│   │   └── Output.txt
+│   ├── Question5
+│   │   ├── Main.class
+│   │   ├── Main.java
+│   │   └── Output.txt
+│   ├── Question6
+│   │   └── Answer.txt
+├── HW3
+│   ├── Main.class
+│   ├── Main.java
+│   ├── MyString.class
+│   ├── MyString.java
+│   └── Output.txt
+├── HW4
+│   ├── Main.class
+│   ├── Main.java
+│   ├── input1.txt
+│   ├── input2.txt
+│   └── output.txt
+├── HW5
+│   ├── Question1
+│   │   ├── Main.class
+│   │   ├── OptimizedOutput.txt
+│   │   ├── OptimizedVersion.class
+│   │   ├── OptimizedVersion.java
+│   │   ├── SlowOutput.txt
+│   │   ├── SlowVersion.class
+│   │   ├── SlowVersion.java
+│   │   └── Worker.class
+│   ├── Question2
+│   │   ├── Answers.txt
+│   │   ├── Ex.class
+│   │   ├── Main.class
+│   │   └── Main.java
+│   └── .DS_Store
+├── HW6
+│   ├── Main.class
+│   ├── Main.java
+│   ├── NQueensSolutionsFinder.class
+│   ├── Output.txt
+│   └── Solution.class
+├── HW7
+│   ├── Question1
+│   │   ├── Calculator.class
+│   │   ├── Calculator.java
+│   │   ├── Main.java
+│   │   └── Operators.class
+├── HW8
+│   ├── LS.class
+│   ├── LS.java
+│   └── dir_tree.txt
+├── .DS_Store
+├── HW1.zip
+└── HW2.zip
