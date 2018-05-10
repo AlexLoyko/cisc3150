@@ -1,0 +1,4 @@
+Exceptions in Java are thread-specific. Since there is an IllegalMonitorStateException being thrown and it derives from RuntimeException, we don't have to check for it, which we obviously don't. Therefore, it is an uncaught exception and it tries to call the thread's UncaughtExceptionHandler, which we do not provide. So, it falls back to the defaultUncaughtExceptionHandler, which silently kills the thread.
+
+Source:
+https://dzone.com/articles/know-jvm-series-%E2%80%93-1-%E2%80%93-uncaught
